@@ -2,7 +2,7 @@
   "name": "auto-terminal",
   "displayName": "AutoTerminal",
   "description": "Auto open the terminals placed in a JSON",
-  "publisher": "David Cabrera",
+  "publisher": "DavidCabrera",
   "version": "1.0.0",
   "repository": {
     "type": "git",
