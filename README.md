@@ -10,7 +10,7 @@ If one of below usecases matches, then AutoTerminal is for you
 
 ## Features
 
-![Open AutoTerminal](resources/overview.gif)
+![Open AutoTerminal](src/resources/overview.gif)
 
 ## Extension Settings
 
